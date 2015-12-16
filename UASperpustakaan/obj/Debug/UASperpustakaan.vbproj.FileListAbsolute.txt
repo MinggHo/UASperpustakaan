@@ -1,0 +1,14 @@
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\bin\Debug\UASperpustakaan.exe.config
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\bin\Debug\UASperpustakaan.exe
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\bin\Debug\UASperpustakaan.pdb
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\bin\Debug\UASperpustakaan.xml
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\obj\Debug\UASperpustakaan.vbprojResolveAssemblyReference.cache
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\obj\Debug\UASperpustakaan.Transaksi.resources
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\obj\Debug\UASperpustakaan.Resources.resources
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\obj\Debug\UASperpustakaan.vbproj.GenerateResource.Cache
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\obj\Debug\UASperpustakaan.exe
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\obj\Debug\UASperpustakaan.xml
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\obj\Debug\UASperpustakaan.pdb
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\obj\Debug\UASperpustakaan.report.resources
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\obj\Debug\UASperpustakaan.historipinjaman.resources
+c:\users\mukmin\documents\visual studio 2012\Projects\UASperpustakaan\UASperpustakaan\obj\Debug\UASperpustakaan.insertPinjam.resources
